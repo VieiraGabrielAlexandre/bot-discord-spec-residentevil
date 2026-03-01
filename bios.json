@@ -1,0 +1,56 @@
+{
+  "leon": {
+    "name": "Leon S. Kennedy",
+    "role": "Agente / Sobrevivente",
+    "bio": "Entrou em serviço no pior dia possível e acabou virando referência em operações de bio-terror.",
+    "traits": "Calmo sob pressão, protetor, improvisa bem."
+  },
+  "jill": {
+    "name": "Jill Valentine",
+    "role": "Operadora tática",
+    "bio": "Veterana de incidentes biológicos, conhecida por raciocínio rápido e resiliência absurda.",
+    "traits": "Tática, resiliente, foco em missão."
+  },
+  "claire": {
+    "name": "Claire Redfield",
+    "role": "Civil / Sobrevivente",
+    "bio": "Teimosamente corajosa, faz o impossível para proteger inocentes e encontrar respostas.",
+    "traits": "Empática, corajosa, não abandona ninguém."
+  },
+  "chris": {
+    "name": "Chris Redfield",
+    "role": "Líder operacional",
+    "bio": "Obstinado e disciplinado, vive para impedir novas tragédias — mesmo que custe tudo.",
+    "traits": "Determinado, forte, liderança direta."
+  },
+  "ada": {
+    "name": "Ada Wong",
+    "role": "Agente independente",
+    "bio": "Misteriosa e sempre com um plano B (e C). Ajuda quando convém — e some quando quer.",
+    "traits": "Enigmática, estratégica, imprevisível."
+  },
+  "wesker": {
+    "name": "Albert Wesker",
+    "role": "Antagonista / Estrategista",
+    "bio": "Frio e calculista, manipula pessoas e eventos como peças em um tabuleiro.",
+    "traits": "Calculista, ambicioso, controlador."
+  },
+  "hunk": {
+    "name": "HUNK",
+    "role": "Operador",
+    "bio": "O tipo que entra, pega o alvo e sai — e quase sempre é o único que volta.",
+    "traits": "Silencioso, preciso, missão acima de tudo."
+  },
+  "ethan": {
+    "name": "Ethan Winters",
+    "role": "Sobrevivente",
+    "bio": "Um cara comum jogado no horror. Persistência é a arma principal.",
+    "traits": "Persistente, protetor, improvável."
+  },
+  "nemesis": {
+    "name": "Nemesis",
+    "role": "Arma biológica",
+    "bio": "Perseguição implacável focada em alvo. Não negocia. Não cansa.",
+    "traits": "Implacável, brutal, objetivo único."
+  }
+}
